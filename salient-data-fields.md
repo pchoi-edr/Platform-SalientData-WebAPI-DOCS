@@ -39,16 +39,16 @@
 | Property | TaxRate | Tax Rate |  |
 | Property | TaxYear | Tax Year | Integer |
 | Property | OperatingExpense | Operating Expense \(%\) | Ex: 60% |
-| Multi-Family | UnitType | Unit Type |  |
-| Multi-Family | Units | \# of Units per Unit Type |  |
-| Multi-Family | AvgUnitSize | Avg Unit Size \(sq.ft\) of each Unit Type |  |
-| Multi-Family | AvgInPlaceRent | Avg In Place Rent per Unit Type |  |
-| Multi-Family | AvgRent | Avg Asking Rent per Unit Type |  |
-| Multi-Family | Buildings | \# of Buildings | Integer |
-| Multi-Family | Floors | \# of Floors in each Building |  |
-| Multi-Family | AirConditioning | Air Conditioning |  |
-| Multi-Family | CommonAreaLaundry | Common Area Laundry |  |
-| Multi-Family | Parking | Parking | Array of Parking types: \[ 'Non-Garage', 'Garage', 'Covered', ... \] |
+| MultiFamily | UnitType | Unit Type |  |
+| MultiFamily | Units | \# of Units per Unit Type |  |
+| MultiFamily | AvgUnitSize | Avg Unit Size \(sq.ft\) of each Unit Type |  |
+| MultiFamily | AvgInPlaceRent | Avg In Place Rent per Unit Type |  |
+| MultiFamily | AvgRent | Avg Asking Rent per Unit Type |  |
+| MultiFamily | Buildings | \# of Buildings | Integer |
+| MultiFamily | Floors | \# of Floors in each Building |  |
+| MultiFamily | AirConditioning | Air Conditioning |  |
+| MultiFamily | CommonAreaLaundry | Common Area Laundry |  |
+| MultiFamily | Parking | Parking | Array of Parking types: \[ 'Non-Garage', 'Garage', 'Covered', ... \] |
 | Appraisal | EffectiveDate | Appraisal Effective As of Date |  |
 | Appraisal | ReportDate | Appraisal Report Date |  |
 | Appraisal | InspectionDate | Inspection Date |  |
