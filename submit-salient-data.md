@@ -72,6 +72,8 @@ Apollo Client requires the mutation be formatted in the following method
       },
     }
 
+`Because we are working with RESTful API's, all salient data, whether xml or JSON must be stringified before submitting.`
+
 Apollo Client has several dependencies , which includes the `graphql-tag`
 
 In the client, the following code would be used.
