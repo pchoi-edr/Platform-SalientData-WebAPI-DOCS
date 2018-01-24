@@ -10,6 +10,7 @@
 * [Sample Queries](sample-queries.md)
 * [Sample Mutations](sample-mutations.md)
 * [Salient Data Format](salient-data-format.md)
+* Salient Data Fields
 
 ## Methods
 
@@ -17,5 +18,7 @@
 * [Logging In](loggin-in.md)
 * [Submit Salient Data](submit-salient-data.md)
 * Vendor
-* Salient Data
+* [Salient Data](salient-data.md)
+
+
 
