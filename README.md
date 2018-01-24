@@ -1,4 +1,4 @@
-# Salient Data API Technical Documentation
+## Salient Data API Technical Documentation
 
 This document will provide the necessary information to
 
