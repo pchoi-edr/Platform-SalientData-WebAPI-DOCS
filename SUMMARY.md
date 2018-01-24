@@ -4,7 +4,7 @@
 
 * [Salient Data API](README.md)
 * [Getting Started](getting-started.md)
-* Authorization
+* [Authorization](authorization.md)
 * [API Headers](api-headers.md)
 * [GraphQL](graphql.md)
 * [GraphiQL](graphiql.md)
