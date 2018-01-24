@@ -4,6 +4,7 @@
 
 * [Salient Data API](README.md)
 * [Getting Started](getting-started.md)
+* Authorization
 * [API Headers](api-headers.md)
 * [GraphQL](graphql.md)
 * [GraphiQL](graphiql.md)
@@ -11,7 +12,7 @@
 * [Sample Mutations](sample-mutations.md)
 * [Salient Data Format](salient-data-format.md)
 * [Salient Data Fields](salient-data-fields.md)
-* [Salient Data GraphQL Schemas](graphql-schemas.md)
+* Authorization
 
 ## Methods
 
