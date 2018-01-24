@@ -13,6 +13,7 @@
 * Salient Data Format
 * Salient Data Fields
 * [GraphQL Schemas](graphql-schemas.md)
+* [GraphQL Resolvers](graphql-resolvers.md)
 
 ## Methods
 
