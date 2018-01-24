@@ -7,6 +7,7 @@ This document will provide the necessary information to
 3. Create Queries using GraphQL
 4. Create Mutations using GraphQL
 5. Understand Data Fields and Format
+6. Intro to Apollo & Apollo Client
 
 
 
