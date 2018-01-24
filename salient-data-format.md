@@ -1,5 +1,3 @@
-# Salient Data Format
-
 Data Fields for Salient data should be categorized according to their `Category`. Category lists are as follows:
 
 ```
@@ -35,30 +33,6 @@ Category List references are case sensitive, with no spaces, and no special char
     { ... }
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 > XML
 

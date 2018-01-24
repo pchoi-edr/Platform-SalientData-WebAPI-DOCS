@@ -1,5 +1,3 @@
-# Salient Data Fields
-
 > All fields are Strings, unless otherwise indicated.
 
 | Category | Field Name | Field Name Descr | Notes |

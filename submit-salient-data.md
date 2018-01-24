@@ -1,5 +1,3 @@
-# Submit Salient Data
-
 Logging into Salient Data uses the GraphQL Resolver RootMutation `createPost()`.
 
 This resolver is a member of the mutation family.

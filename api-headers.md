@@ -1,5 +1,3 @@
-# API Headers
-
 After [Signing Up](signing-up.md) and [Logging In](loggin-in.md), all queries and mutations must have the following headers.
 
 ```JavaScript
@@ -37,5 +35,7 @@ export class HttpInterceptorRequestService implements HttpInterceptor {
   }
 
 }
-
 ```
+
+
+

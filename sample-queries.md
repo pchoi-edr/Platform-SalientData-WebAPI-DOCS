@@ -1,5 +1,3 @@
-# Sample Queries
-
 > Query: Vendor
 
 ```
@@ -12,4 +10,6 @@
   }
 }
 ```
+
+
 
