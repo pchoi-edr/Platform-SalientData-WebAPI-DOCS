@@ -6,7 +6,7 @@
 * [Getting Started](getting-started.md)
 * [Signing Up](signing-up.md)
 * [Logging In](loggin-in.md)
-* Submit Salient Data
+* [Submit Salient Data](submit-salient-data.md)
 * [API Headers](api-headers.md)
 * [GraphQL](graphql.md)
 * [Sample Queries](sample-queries.md)
@@ -18,6 +18,4 @@
 ## Methods
 
 * [Defining Methods](methods.md)
-
-
 
