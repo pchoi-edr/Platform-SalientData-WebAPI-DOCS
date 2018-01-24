@@ -6,6 +6,7 @@
 * [Getting Started](getting-started.md)
 * [Signing Up](signing-up.md)
 * [Logging In](loggin-in.md)
+* Submit Salient Data
 * [API Headers](api-headers.md)
 * [GraphQL](graphql.md)
 * [Sample Queries](sample-queries.md)
@@ -13,10 +14,10 @@
 * Salient Data Format
 * Salient Data Fields
 * [GraphQL Schemas](graphql-schemas.md)
-* [GraphQL Resolvers](graphql-resolvers.md)
-* Submit Salient Data
 
 ## Methods
 
 * [Defining Methods](methods.md)
+
+
 
