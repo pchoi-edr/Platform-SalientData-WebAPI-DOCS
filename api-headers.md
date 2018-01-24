@@ -14,8 +14,8 @@ These headers must be past in for each query and mutation call to the server.
 Best place to support this is in the client HTTP Interceptor so it uses authorization for every API call.
 
 > **Angular 5+**
-```TypeScript
 
+```
 @Injectable()
 export class HttpInterceptorRequestService implements HttpInterceptor {
 
