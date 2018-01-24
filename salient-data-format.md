@@ -31,7 +31,8 @@ Category List references are case sensitive, with no spaces, and no special char
     Property: {
         Type: 'Multi-Residential',
         SubType: 'Commercial'
-    }
+    },
+    { ... }
 }
 ```
 
@@ -50,8 +51,6 @@ Category List references are case sensitive, with no spaces, and no special char
    </Property>
 </root>
 ```
-
-
 
 
 
