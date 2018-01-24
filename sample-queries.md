@@ -1,4 +1,6 @@
 # Sample Queries
 
+> Query: Vendor
+
 
 

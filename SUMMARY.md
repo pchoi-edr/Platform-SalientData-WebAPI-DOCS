@@ -14,6 +14,7 @@
 * Salient Data Fields
 * [GraphQL Schemas](graphql-schemas.md)
 * [GraphQL Resolvers](graphql-resolvers.md)
+* Submit Salient Data
 
 ## Methods
 
