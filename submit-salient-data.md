@@ -85,23 +85,30 @@ In the client, the following code would be used.
       private apollo: Apollo
     ) {}
 
-    const signUp = {
+    const post = {
       mutation: gql`
-        mutation signUp($username: String!, $password: String!, $firstName: String!, $lastName: String!) {
-          signUp(username: $username, password: $password, firstName: $firstName, lastName: $lastName) {
+        mutation createPost($title: String!, $content: String!, $salient: String!, $bank: String!) {
+          createPost(salient: {
+            title: "$title}",
+            content: "$salient",
+            summary: "$summary",
+            bank: $bank
+          })
+          { 
             _id
+            title
           }
         }
       `,
       variables: {
-        username: f.value.inputUserName,
-        password: f.value.inputPassword,
-        firstName: f.value.inputFirstName,
-        lastName: f.value.inputLastName
+        title: f.value.title,
+        salient: JSON.stringify(f.value.content),
+        summary: f.value.summary,
+        bank: f.value.bank
       },
     };
 
-    this.apollo.mutate(signUp).subscribe(console.log);
+    this.apollo.mutate(post).subscribe(console.log);
 
 
 
