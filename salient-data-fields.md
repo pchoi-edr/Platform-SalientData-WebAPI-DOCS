@@ -141,7 +141,7 @@
 | RetailOfficeIndustrialTenants | OwnerOccupied | Owner Occupied? | Boolean |
 | HealthcareFinanceSeniorHousing | Beds | # of Beds | Integer |
 | HealthcareFinanceSeniorHousing | Rooms | # of Rooms | Integer |
-| HealthcareFinanceSeniorHousing |  | Per Square Foot |  |
+| HealthcareFinanceSeniorHousing | PerSQFT | Per Square Foot |  |
 | HealthcareFinanceSeniorHousing | EGIMAnalysis | EGIM Analysis |  |
 | HealthcareFinanceSeniorHousing | RealPropertyValue | Real Property / Value of the Building Value($) | Integer |
 | HealthcareFinanceSeniorHousing | ContributoryPersonalFFEValue | Contributory Personal Property / FF& E Value($) | Integer |
