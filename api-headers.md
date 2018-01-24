@@ -15,6 +15,7 @@ Best place to support this is in the client HTTP Interceptor so it uses authoriz
 
 > **Angular 5+**
 ```TypeScript
+
 @Injectable()
 export class HttpInterceptorRequestService implements HttpInterceptor {
 
@@ -36,4 +37,5 @@ export class HttpInterceptorRequestService implements HttpInterceptor {
   }
 
 }
+
 ```
