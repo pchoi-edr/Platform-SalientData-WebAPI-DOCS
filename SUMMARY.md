@@ -12,7 +12,7 @@
 * [Sample Mutations](sample-mutations.md)
 * [Salient Data Format](salient-data-format.md)
 * [Salient Data Fields](salient-data-fields.md)
-* [GraphQL Schemas](graphql-schemas.md)
+* [Salient GraphQL Schemas](graphql-schemas.md)
 
 ## Methods
 
