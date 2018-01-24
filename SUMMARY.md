@@ -17,5 +17,6 @@
 * [Signing Up](signing-up.md)
 * [Logging In](loggin-in.md)
 * [Submit Salient Data](submit-salient-data.md)
-* [Defining Methods](methods.md)
+
+
 
