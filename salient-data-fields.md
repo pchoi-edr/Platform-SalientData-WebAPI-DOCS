@@ -147,41 +147,5 @@
 | HealthcareFinanceSeniorHousing | ContributoryPersonalFFEValue | Contributory Personal Property / FF& E Value\($\) | Integer |
 | HealthcareFinanceSeniorHousing | BusinessEnterpriseValue | Business Enterprise Value \($\) | Integer |
 
-Data Fields for Salient data should be categorized according to their `Category`.
-
-##### For Example:
-
-> JSON
-
-```
-{
-    Identifier: {
-        ProperID: 123,
-        LocationID: 123,
-        { ... }
-    },
-    Property: {
-        Type: 'Multi-Residential',
-        SubType: 'Commercial'
-    }
-}
-```
-
-> XML
-
-```
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-   <Identifier>
-      <LocationID>123</LocationID>
-      <ProperID>123</ProperID>
-   </Identifier>
-   <Property>
-      <SubType>Commercial</SubType>
-      <Type>Multi-Residential</Type>
-   </Property>
-</root>
-```
-
 
 
