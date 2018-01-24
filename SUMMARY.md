@@ -6,7 +6,7 @@
 * [Getting Started](getting-started.md)
 * [API Headers](api-headers.md)
 * [GraphQL](graphql.md)
-* GraphiQL
+* [GraphiQL](graphiql.md)
 * [Sample Queries](sample-queries.md)
 * [Sample Mutations](sample-mutations.md)
 * [Salient Data Format](salient-data-format.md)
@@ -18,6 +18,4 @@
 * [Submit Salient Data](submit-salient-data.md)
 * Vendor
 * Salient Data
-
-
 
