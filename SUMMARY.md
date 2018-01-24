@@ -10,6 +10,8 @@
 * [GraphQL](graphql.md)
 * [Sample Queries](sample-queries.md)
 * [Sample Mutations](sample-mutations.md)
+* Salient Data Format
+* Salient Data Fields
 
 ## Methods
 
